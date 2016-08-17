@@ -1,0 +1,38 @@
+{
+  "name": "angular-dchart",
+  "version": "0.0.3",
+  "description": "Angular/D3.js Chart Directives",
+  "main": "dist/angular-dchart.js",
+  "scripts": {
+    "test": "karma config/karma.unit.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaosmail/angular-dchart"
+  },
+  "keywords": [
+    "dchart",
+    "chart",
+    "angular",
+    "d3"
+  ],
+  "devDependencies": {
+    "bower": "",
+    "grunt": "",
+    "karma": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-cssmin": "",
+    "grunt-bower-task": "",
+    "grunt-contrib-copy": "",
+    "grunt-contrib-watch": "",
+    "grunt-karma": "",
+    "grunt-bower-task": "",
+    "grunt-contrib-clean":"",
+    "mocha": "",
+    "chai": ""
+  },
+  "author": "Christoph Körner <office@chaosmail.at> (http://chaosmail.at)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
